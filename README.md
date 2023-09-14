@@ -1,8 +1,3 @@
-@@ -1,162 +1,2 @@
-# **PROJETO USUÁRIOS** #
-## **GRUPO 10** - ALGORITIMOS E ESTRUTURAS DE DADOS III ##
-*Lucas Bottrel*, *Fernanda Cirino*, *Vinicius Mendes* e *Juliana Granffild* 
-
 ## OVERVIEW ##
 
 Esse projeto é um programa de perguntas e respostas, parecido com o StackOverflow. A ideia é que o usuário tenho um cadastro no programa e que ele crie suas perguntas, responda perguntas de outros usuários cadastrados no programa, comente e vote em perguntas e respostas relevantes. 
