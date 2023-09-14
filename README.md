@@ -156,5 +156,5 @@ Avaliar a pergunta é mais simples, uma vez que só temos uma opção. O usuári
 Avaliar a resposta é bem parecido com avaliar uma pergunta. A grande diferença é que o usuário precisa dizer qual das respostas (se houver mais de uma) ele quer avaliar. Escolhida a resposta, o processo se dá da mesma forma de avaliação de perguntas.
 
 
-# StackOverflow-Protoype
+# StackOverflow-Prototype
 Prototype of the Stack Overflow site, created in Java
